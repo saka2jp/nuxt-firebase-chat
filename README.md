@@ -1,6 +1,6 @@
 # nuxt-firebase-chat
 
-> My amazing Nuxt.js project
+Service URL: https://nuxt-firebase-chat-a2ac6.firebaseapp.com/
 
 ## Build Setup
 
